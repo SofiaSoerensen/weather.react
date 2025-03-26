@@ -49,7 +49,7 @@ export default function Search() {
           <li>Description: {description}</li>
           <li>Humidity: {humidity}%</li>
           <li>Wind: {wind}km/h</li>
-          <li>{icon && <img src={icon} />}</li>
+          <li>{icon && <img src={icon} alt="icon" />}</li>
         </ul>
       </div>
     </div>
