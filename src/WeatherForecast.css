@@ -7,3 +7,15 @@
   opacity: 0.6;
   margin-left: 5px;
 }
+
+.WeatherForecast-day {
+  color: rgb(59, 59, 229);
+}
+
+.WeatherForecast-temperature-max {
+  color: rgb(59, 59, 229);
+}
+
+.WeatherForecast-temperature-min {
+  color: rgb(116, 116, 235);
+}
