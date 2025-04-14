@@ -46,3 +46,7 @@
   position: relative;
   line-height: 1;
 }
+
+.WeatherTemperature a {
+  color: black;
+}
